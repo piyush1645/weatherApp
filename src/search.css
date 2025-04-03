@@ -1,0 +1,9 @@
+.searchForm{
+    display: flex;
+}
+.searchbox{
+    margin-right: 15px;
+}
+.error{
+    color: red;
+}
